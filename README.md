@@ -74,6 +74,8 @@ RAG_project/
 │   ├── ABLATION.md        # 消融实验完整记录（含对照组与噪声底线）
 │   ├── COMPLIANCE.md      # 合规性审计（无标注泄漏验证）
 │   └── FINDINGS.md        # 工程发现与部署要点
+├── skill/
+│   └── multihop-rag-setup/    # 环境配置向导（新人一键配置 + 环境自检脚本）
 └── results/               # 最终产物（预测 + 官方评测输出）
 ```
 
@@ -109,6 +111,13 @@ llama-server -m Qwen_Qwen3.5-9B-Q8_0.gguf --port 18080 -ngl 99 -c 8192 --jinja
 ### 4.4 数据
 
 MultiHop-RAG 官方数据（609 篇语料 + 2556 题）：`github.com/yixuantt/MultiHop-RAG` → 放入 `dataset/`（`corpus.json`、`MultiHopRAG.json`）。
+
+### 4.5 新人一键配置（WorkBuddy Skill）
+
+`skill/multihop-rag-setup/` 为环境配置向导（由本项目全部实测命令沉淀，含 9 个坑位的解决方案）：
+
+- **WorkBuddy 用户**：把 `skill/multihop-rag-setup/` 复制到 `~/.workbuddy/skills/`，对 AI 说「帮我配置 MultiHop-RAG 环境」→ 按向导完成全流程配置与验证
+- **其他用户**：按 `skill/multihop-rag-setup/SKILL.md` 的四阶段流程手动执行；完成后运行 `scripts/check_env.py` 自检；疑难问题查 `references/pitfalls.md`
 
 ---
 
