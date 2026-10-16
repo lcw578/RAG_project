@@ -33,10 +33,10 @@
 - **解决**：客户端请求传 `chat_template_kwargs: {"enable_thinking": false}`（本项目 `qa_llama*.py` 已内置）
 - **验证**：同一 prompt 对比开启/关闭时 `usage.completion_tokens` 与 content
 
-## 6. 经 SSH 隧道调用「隔次 404」
-- **症状**：复用 HTTP 连接时，请求 OK/404/OK/404 严格交替；每题新建连接则 100% 正常；远程本机直连也正常
-- **原因**：llama.cpp（b11429）+ keep-alive 组合缺陷（隔离实验见项目 docs/FINDINGS.md）
-- **解决**：**每请求新建连接**（`qa_llama*.py` 的 `[ADAPTED]` 已固化；局域网建连毫秒级，无性能损失）
+## 6. 复用连接调用「隔次 404」
+- **症状**：复用同一 HTTP 连接时，请求 OK/404/OK/404 严格交替（100% 复现）；每题新建连接则完全正常
+- **原因**：llama.cpp（b11429）+ keep-alive 的兼容性缺陷（对照实验见项目 docs/FINDINGS.md）
+- **解决**：**每请求新建连接**（`qa_llama*.py` 的 `[ADAPTED]` 已固化；本机建连毫秒级，无性能损失）
 - **验证**：同一脚本对连续 10 个请求统计 HTTP 状态码
 
 ## 7. 机器卡死（内存）

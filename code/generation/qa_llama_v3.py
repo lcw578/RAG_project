@@ -129,6 +129,7 @@ def main() -> None:
 
         print(f"Generating answer for query {index}/{len(doc_data)}...")
 
+        # [ADAPTED] 每题新建连接：实测复用持久连接时 llama-server 会隔次返回 404
         client = build_client()
 
         response = generate_answer(

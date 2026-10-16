@@ -135,7 +135,7 @@ python code/enhancers/enhance_sources.py          # 源覆盖 → output/enhance
 python code/enhancers/enhance_v2.py               # 来源补强+日期匹配（读上一步产物）
 python code/enhancers/temporal_annotate.py output/final_query_result_pre.json output/final_query_result.json
 
-# ③ 生成（prompt v3；远程/本地均可，指向 llama-server）
+# ③ 生成（prompt v3，指向本地 llama-server）
 python code/generation/qa_llama_v3.py \
     --input output/final_query_result.json --output qa_output/final_v3_full.json
 
@@ -145,7 +145,7 @@ python code/evaluation/qa_evaluate.py --file results/predictions_final.json
 python code/evaluation/retrieval_evaluate.py --file output/full_query_result.json
 ```
 
-> 注：脚本内路径按本机环境（`D:\ANACONDA\envs\mhr` 等）配置，迁移时请对应修改；`code/runners/run_qa_full.sh` 提供了分块断点续跑的全量执行器示例。
+> 注：所有脚本设计为在项目根目录执行；Python 解释器默认取 `python`（可用环境变量 `PYTHON` 覆盖）。
 
 ---
 
@@ -163,7 +163,7 @@ python code/evaluation/retrieval_evaluate.py --file output/full_query_result.jso
 
 | 发现 | 现象 | 解决 |
 |---|---|---|
-| llama.cpp keep-alive 缺陷 | 经 SSH 隧道复用 HTTP 连接时**隔次返回 404**（复用连接 OK/404 严格交替；远程直连 6/6 正常） | 每题新建连接（[ADAPTED] 已在 qa_llama*.py 固化） |
+| llama.cpp keep-alive 缺陷 | 复用 HTTP 连接时**隔次返回 404**（OK/404 严格交替；新连接 100% 正常） | 每题新建连接（[ADAPTED] 已在 qa_llama*.py 固化） |
 | 思考模式不可行 | 9B 模型 70% 的题在 2048 token 内**只有思维链没有答案**，总体 14.3% vs 关闭 59.0% | 默认关闭思考模式（官方默认一致） |
 | 证据时间隐形 | **98.2%** 的语料 chunk 正文不含自身发布日期（正文用相对时间） | 日期标注注入 `[Published: …]` 前缀 |
 

@@ -71,7 +71,7 @@ llama-server -m <模型目录>/Qwen_Qwen3.5-9B-Q8_0.gguf --port 18080 -ngl 99 -c
 
 要点：
 - 端口**不要用 8080**（常被代理软件占用）——本项目统一 **18080**，客户端的 `LOCAL_LLM_BASE_URL` 环境变量可覆盖
-- 显存 < 11GB 的机器：把服务跑在局域网内另一台有 GPU 的机器上，客户端指向其地址即可（本项目的实际部署方式）
+- 显存建议 ≥ 11GB（Q8_0 约 9.8GB）：不足时改用更小量化（如 Q4_K_M ≈ 5.8GB，精度略降）
 - 客户端两个必须：思考模式由代码通过 `chat_template_kwargs` 关闭；HTTP 每题新建连接（见坑位表）
 
 ### 步骤 4：冒烟测试（20 题小样本，端到端）
@@ -104,12 +104,12 @@ python code/evaluation/qa_evaluate.py --file qa_output/smoke.json
 | torch 装不上（清华源 404） | 清华 pytorch-wheels 镜像已下线 | 换 SJTU 镜像（见步骤 1） |
 | llama-server 启动失败 | 8080 端口被占用 | 改 18080 |
 | 模型只输出思维链、无答案 | Qwen3.5 默认开启思考模式 | 客户端传 `chat_template_kwargs: {"enable_thinking": false}` |
-| 经隧道调用「隔次 404」 | llama.cpp keep-alive 缺陷（严格交替复现） | 每题新建 HTTP 连接（`qa_llama*.py` 已内置 `[ADAPTED]` 修复） |
+| 复用连接调用「隔次 404」 | llama.cpp keep-alive 兼容性缺陷（严格交替复现） | 每题新建 HTTP 连接（`qa_llama*.py` 已内置 `[ADAPTED]` 修复） |
 | 整机卡死 | 同时加载多份 2.3GB 模型 + 内存不足 | 一次只加载一份；大模型加载前先查可用内存 |
 | 中文路径下脚本异常 | 工具链编码兼容性 | 模型/项目路径尽量用 ASCII |
 
 ## 资源
 
 - `scripts/check_env.py` — 环境自检脚本：依赖 / 模型 / 数据 / 推理服务四项全查，输出体检报告
-- `references/setup-details.md` — 详细命令参考（镜像、模型下载、局域网部署、可选组件）
+- `references/setup-details.md` — 详细命令参考（镜像、模型下载、服务部署、可选组件）
 - `references/pitfalls.md` — 坑位手册（症状 → 原因 → 解决，附实测依据与验证方法）

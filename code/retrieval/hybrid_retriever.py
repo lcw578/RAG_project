@@ -77,11 +77,11 @@ class HybridRetriever:
     def __init__(
         self,
         corpus_path: str = "dataset/corpus.json",
-        # [ADAPTED 2026-10-15] 指向本机下载的本地模型与索引目录
-        # （原默认: HF 模型名 "sentence-transformers/all-MiniLM-L6-v2" / 作者机器的 F:\ 路径）
-        dense_model_name: str = r"E:\NLP_project\models\all-MiniLM-L6-v2",
-        reranker_model: str = r"E:\NLP_project\models\bge-reranker-v2-m3",
-        persist_dir: str = r"E:\NLP_project\code\storage\all-MiniLM-L6-v2_chunk256",
+        # [ADAPTED 2026-10-15] 本地模型与索引目录（相对项目根目录）
+        # （原默认: HF 模型名 "sentence-transformers/all-MiniLM-L6-v2"）
+        dense_model_name: str = "models/all-MiniLM-L6-v2",
+        reranker_model: str = "models/bge-reranker-v2-m3",
+        persist_dir: str = "storage/all-MiniLM-L6-v2_chunk256",
         chunk_size: int = 256,
         chunk_overlap: int = 25,
         rrf_k: float = 60.0,

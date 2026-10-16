@@ -7,12 +7,14 @@
 输入：output/enhanced_query_result.json
 输出：output/enhanced_temporal_query_result.json
 """
+import os
 import sys, io, json
 sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8', errors='replace')
 
-CODE = r'E:\NLP_project\code'
-IN_FILE = sys.argv[1] if len(sys.argv) > 1 else CODE + r'\output\enhanced_query_result.json'
-OUT_FILE = sys.argv[2] if len(sys.argv) > 2 else CODE + r'\output\enhanced_temporal_query_result.json'
+# 在项目根目录执行；如需从其他位置运行，用环境变量 RAG_ROOT 指定项目根路径
+ROOT = os.environ.get("RAG_ROOT", os.getcwd())
+IN_FILE = sys.argv[1] if len(sys.argv) > 1 else os.path.join(ROOT, "output", "enhanced_query_result.json")
+OUT_FILE = sys.argv[2] if len(sys.argv) > 2 else os.path.join(ROOT, "output", "enhanced_temporal_query_result.json")
 
 data = json.load(open(IN_FILE, encoding='utf-8'))
 n_chunks = n_annotated = n_missing = 0

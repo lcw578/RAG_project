@@ -9,16 +9,18 @@
 输入：output/enhanced_query_result.json（源覆盖后、未日期标注）
 输出：output/final_query_result_pre.json（随后交 temporal_annotate.py 统一加日期前缀）
 """
+import os
 import sys, io, json, re
 from collections import Counter, defaultdict
 
 sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8', errors='replace')
 
-CODE = r'E:\NLP_project\code'
-DOCSTORE = CODE + r'\storage\all-MiniLM-L6-v2_chunk256\docstore.json'
-IN_FILE = CODE + r'\output\enhanced_query_result.json'
-OUT_FILE = CODE + r'\output\final_query_result_pre.json'
-RERANKER_PATH = r'E:\NLP_project\models\bge-reranker-v2-m3'
+# 在项目根目录执行；如需从其他位置运行，用环境变量 RAG_ROOT 指定项目根路径
+ROOT = os.environ.get("RAG_ROOT", os.getcwd())
+DOCSTORE = os.path.join(ROOT, "storage", "all-MiniLM-L6-v2_chunk256", "docstore.json")
+IN_FILE = os.path.join(ROOT, "output", "enhanced_query_result.json")
+OUT_FILE = os.path.join(ROOT, "output", "final_query_result_pre.json")
+RERANKER_PATH = os.environ.get("RERANKER_PATH", os.path.join(ROOT, "models", "bge-reranker-v2-m3"))
 
 SRC_TARGET = 3      # 点名来源的目标段数
 SRC_ADD_CAP = 2     # 每个来源最多补 2 段

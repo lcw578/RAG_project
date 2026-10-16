@@ -1,11 +1,11 @@
 #!/bin/bash
 # 全量 QA 分块流水线（稳妥模式 v2）：
-#   分块 -> 逐块生成（断点续跑 + 每块前等隧道恢复 + 最多 3 次尝试）
+#   分块 -> 逐块生成（断点续跑 + 每块前等服务恢复 + 最多 3 次尝试）
 #   -> 按序合并 -> 官方评测（答案准确率 + 检索指标）
 # 用法：bash run_qa_full.sh
-# 依赖：output/full_query_result.json；远程 llama-server 在跑；本机隧道守护任务在跑（自动重连）。
+# 依赖：output/full_query_result.json；llama-server 服务可用（默认 http://127.0.0.1:18080）。
 cd "$(dirname "$0")"
-PY="D:/ANACONDA/envs/mhr/python.exe"
+PY="${PYTHON:-python}"
 IN="output/full_query_result.json"
 CHUNK_DIR="output/qa_chunks"
 OUT_DIR="qa_output/chunks"
@@ -13,7 +13,7 @@ MERGED="qa_output/full_qwen.json"
 CHUNK=300
 mkdir -p "$CHUNK_DIR" "$OUT_DIR" logs
 
-wait_tunnel() {
+wait_service() {
   local k ok=0
   for k in $(seq 1 30); do
     if curl -s -m 4 http://127.0.0.1:18080/health 2>/dev/null | grep -q '"ok"'; then
@@ -45,7 +45,7 @@ EOF
 N=$(ls "$CHUNK_DIR"/in_*.json | wc -l)
 echo "chunks: $N"
 
-echo "########## [2/4] 逐块生成（断点续跑 + 隧道等待）##########"
+echo "########## [2/4] 逐块生成（断点续跑 + 服务等待）##########"
 for i in $(seq 0 $((N - 1))); do
   ii=$(printf "%02d" "$i")
   in="$CHUNK_DIR/in_$ii.json"
@@ -55,9 +55,9 @@ for i in $(seq 0 $((N - 1))); do
     continue
   fi
 
-  echo "[wait] chunk $ii：确认隧道/服务 ... $(date '+%H:%M:%S')"
-  if ! wait_tunnel; then
-    echo "### [FAIL] chunk $ii：隧道 150 秒内未恢复，中止。重跑本脚本可断点续跑 ###"
+  echo "[wait] chunk $ii：确认服务可用 ... $(date '+%H:%M:%S')"
+  if ! wait_service; then
+    echo "### [FAIL] chunk $ii：服务 150 秒内未恢复，中止。重跑本脚本可断点续跑 ###"
     exit 1
   fi
 
@@ -66,7 +66,7 @@ for i in $(seq 0 $((N - 1))); do
     if [ "$attempt" -gt 1 ]; then
       echo "[retry] chunk $ii 第 $attempt 次尝试（20 秒后）... $(date '+%H:%M:%S')"
       sleep 20
-      wait_tunnel || { echo "### [FAIL] 隧道仍不可用，中止 ###"; exit 1; }
+      wait_service || { echo "### [FAIL] 服务仍不可用，中止 ###"; exit 1; }
     fi
     echo "[run ] chunk $ii attempt $attempt $(date '+%H:%M:%S') ..."
     "$PY" qa_llama.py --input "$in" --output "$out" >> "logs/qa_chunk_$ii.log" 2>&1

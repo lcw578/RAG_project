@@ -10,16 +10,18 @@
 
 用法：python enhance_sources.py [limit]   （limit 为可选的试跑题数）
 """
+import os
 import sys, io, json, re
 from collections import defaultdict
 
 sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8', errors='replace')
 
-CODE = r'E:\NLP_project\code'
-DOCSTORE = CODE + r'\storage\all-MiniLM-L6-v2_chunk256\docstore.json'
-IN_FILE = CODE + r'\output\full_query_result.json'
-OUT_FILE = CODE + r'\output\enhanced_query_result.json'
-RERANKER_PATH = r'E:\NLP_project\models\bge-reranker-v2-m3'
+# 在项目根目录执行；如需从其他位置运行，用环境变量 RAG_ROOT 指定项目根路径
+ROOT = os.environ.get("RAG_ROOT", os.getcwd())
+DOCSTORE = os.path.join(ROOT, "storage", "all-MiniLM-L6-v2_chunk256", "docstore.json")
+IN_FILE = os.path.join(ROOT, "output", "full_query_result.json")
+OUT_FILE = os.path.join(ROOT, "output", "enhanced_query_result.json")
+RERANKER_PATH = os.environ.get("RERANKER_PATH", os.path.join(ROOT, "models", "bge-reranker-v2-m3"))
 
 LIMIT = int(sys.argv[1]) if len(sys.argv) > 1 else None
 MAX_SRC_PER_Q = 3   # 每题最多补 3 个来源

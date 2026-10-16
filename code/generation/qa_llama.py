@@ -45,7 +45,7 @@ def parse_args() -> argparse.Namespace:
 
 
 def build_client() -> OpenAI:
-    # [ADAPTED 2026-10-15] 指向本机 SSH 隧道后的 llama-server（OpenAI 兼容端点）
+    # [ADAPTED 2026-10-15] 指向本地 llama-server（OpenAI 兼容端点）
     # 原默认: DashScope 云 API（https://dashscope.aliyuncs.com/compatible-mode/v1）
     api_key = os.getenv("LOCAL_LLM_API_KEY", "sk-local")
     base_url = os.getenv(
@@ -167,9 +167,9 @@ def main() -> None:
 
         print(f"Generating answer for query {index}/{len(doc_data)}...")
 
-        # [ADAPTED 2026-10-15] 每题新建连接：实测经 SSH 隧道复用持久连接时，
+        # [ADAPTED 2026-10-15] 每题新建连接：实测复用持久连接时，
         # llama-server 会"隔次"返回 404 File Not Found（复用=OK/404 严格交替，
-        # 新建连接=10/10 全 OK），故不复用 HTTP 连接。局域网建连开销毫秒级，可忽略。
+        # 新建连接=10/10 全 OK），故不复用 HTTP 连接。本机建连开销毫秒级，可忽略。
         client = build_client()
 
         response = generate_answer(
