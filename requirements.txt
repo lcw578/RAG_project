@@ -1,0 +1,19 @@
+# 本系统关键依赖（Python 3.11）
+# 完整安装（含 CUDA 版 PyTorch，国内可用 SJTU 镜像）：
+#   conda create -n mhr python=3.11 -y && conda activate mhr
+#   pip install -r requirements.txt
+#   pip install torch==2.14.1+cu126 --index-url https://mirror.sjtu.edu.cn/pytorch-wheels/cu126
+# 说明：torch 单独装（选装 CUDA 版以获得 GPU 重排加速；CPU 版亦可运行）。
+
+llama-index==0.9.40
+sentence-transformers==6.1.0
+FlagEmbedding==1.4.2
+rank-bm25==0.2.2
+openai==3.31.0
+tqdm==4.70.1
+python-dotenv==1.2.4
+tiktoken==0.14.0
+nltk==3.10.3
+numpy==2.4.6
+# llama-index 0.9.x 依赖 pkg_resources（setuptools<81 提供）
+setuptools<81

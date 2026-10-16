@@ -1,0 +1,21 @@
+# ---- Python ----
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+# ---- 本地环境（不入库）----
+models/
+dataset/
+storage/
+logs/
+*.log
+
+# ---- 大体积中间产物（不入库；复现流程可重新生成）----
+output/*.json
+qa_output/**/*.json
+*.tar.gz
+
+# ---- 系统 ----
+.DS_Store
+Thumbs.db

@@ -1,0 +1,26 @@
+Evaluating answers:   0%|          | 0/2556 [00:00<?, ?it/s]Evaluating answers: 100%|██████████| 2556/2556 [00:00<00:00, 464358.34it/s]
+Question Type: inference_query
+ Precision: 0.9510
+ Recall: 0.9510
+ F1 Score: 0.9510
+ Accuracy: 0.9510
+Question Type: comparison_query
+ Precision: 0.6717
+ Recall: 0.6717
+ F1 Score: 0.6717
+ Accuracy: 0.6717
+Question Type: null_query
+ Precision: 0.9169
+ Recall: 0.9169
+ F1 Score: 0.9169
+ Accuracy: 0.9169
+Question Type: temporal_query
+ Precision: 0.5849
+ Recall: 0.5849
+ F1 Score: 0.5849
+ Accuracy: 0.5849
+Overall Metrics:
+ Precision: 0.7700
+ Recall: 0.7700
+ F1 Score: 0.7700
+ Accuracy: 0.7700

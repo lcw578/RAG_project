@@ -1,0 +1,8 @@
+Evaluate file: output/final_query_result.json
+For file: output/final_query_result.json
+Evaluating 2255 valid queries.
+Hits@10: 0.8395
+Hits@4: 0.7840
+MAP@10: 0.3376
+MRR@10: 0.6756
+--------------------
