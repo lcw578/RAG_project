@@ -19,7 +19,7 @@
 | 3 | ＋源覆盖增强（检索后处理 #1） | 58.4 | 93.1 | 80.1 | 38.8 | **67.6** |
 | 4 | ＋日期标注 + 时间线引导（检索后处理 #2 + prompt v3） | 64.8 | 94.7 | 75.1 | 57.6 | **73.9** |
 | 5 | ＋来源补强 v2 + 日期匹配（检索后处理 #3/#4） | **67.2** | **95.1** | 75.4 | **58.5** | **75.1** |
-| **6** | **提交配置 = 第 5 行 + 答案清洗规则** | **67.2** | **95.1** | **91.7** | **58.5** | **77.0** 🏆 |
+| **6** | **提交配置 = 第 5 行 + 答案清洗规则** | **67.2** | **95.1** | **91.7** | **58.5** | **77.0** |
 
 ### 1.2 与公开结果对照
 
@@ -33,7 +33,8 @@
 
 ### 1.3 最终预测文件
 
-- `results/predictions_final.json` — 2556 题最终答案（已应用答案清洗规则）
+- `results/predictions_final.json` — 2556题最终答案（query, model_answer, question_type的调试用格式）（已应用答案清洗规则）
+- `results/predictions.json` — 格式为question_id, model_answer的最终答案
 - `results/eval_qa_final.txt` — 官方 `qa_evaluate.py` 评测输出（Overall **0.7700**）
 - `results/eval_retrieval_final.txt` — 官方 `retrieval_evaluate.py` 对基础检索的评测输出（Hits@10 83.95 / Hits@4 78.40 / MAP 0.338 / MRR 0.676）
 
@@ -66,7 +67,7 @@ RAG_project/
 ├── code/
 │   ├── retrieval/         # 官方混合检索栈（复用，含 [ADAPTED] 适配）
 │   ├── enhancers/         # 自研检索后处理模块（源覆盖 / 来源补强+日期匹配 / 日期标注）
-│   ├── generation/        # 生成脚本（官方版 + prompt v2 / v3 变体）
+│   ├── generation/        # 生成脚本（官方版 + prompt v2 / v3 变体，转换格式为标准格式）
 │   ├── evaluation/        # 官方评测脚本（qa_evaluate pin 于 c1c1287a）
 │   ├── analysis/          # 实验分析脚本（失败归因 / 稳健性 / 合规审计 / 消融对比）
 │   └── runners/           # 分块断点续跑执行器
@@ -143,6 +144,9 @@ python code/generation/qa_llama_v3.py \
 # ⑤ 官方评测
 python code/evaluation/qa_evaluate.py --file results/predictions_final.json
 python code/evaluation/retrieval_evaluate.py --file output/full_query_result.json
+
+# ⑥ 格式统一
+python code/generation/quest_to_ID.py
 ```
 
 > 注：所有脚本设计为在项目根目录执行；Python 解释器默认取 `python`（可用环境变量 `PYTHON` 覆盖）。
@@ -183,7 +187,7 @@ python code/evaluation/retrieval_evaluate.py --file output/full_query_result.jso
 
 ## 九、团队
 
-- **GroupXX** —（请填写组号）
-- 成员：（请填写）
+- **Group1** 
+- 成员：李宸威，阳志远
 
 > 课程：《自然语言处理》（华南理工大学）｜提交截止：2026-11-01
