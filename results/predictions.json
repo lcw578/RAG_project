@@ -1,0 +1,10226 @@
+[
+ {
+  "question_id": "q0000",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q0001",
+  "model_answer": "Donald Trump"
+ },
+ {
+  "question_id": "q0002",
+  "model_answer": "Sam Altman"
+ },
+ {
+  "question_id": "q0003",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q0004",
+  "model_answer": "Caesars Sportsbook"
+ },
+ {
+  "question_id": "q0005",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q0006",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0007",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0008",
+  "model_answer": "OpenAI"
+ },
+ {
+  "question_id": "q0009",
+  "model_answer": "Google"
+ },
+ {
+  "question_id": "q0010",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q0011",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q0012",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0013",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q0014",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q0015",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q0016",
+  "model_answer": "Amazon"
+ },
+ {
+  "question_id": "q0017",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q0018",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q0019",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q0020",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q0021",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q0022",
+  "model_answer": "Valve"
+ },
+ {
+  "question_id": "q0023",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q0024",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q0025",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q0026",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q0027",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0028",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q0029",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0030",
+  "model_answer": "Google"
+ },
+ {
+  "question_id": "q0031",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q0032",
+  "model_answer": "Sam Altman"
+ },
+ {
+  "question_id": "q0033",
+  "model_answer": "Uber"
+ },
+ {
+  "question_id": "q0034",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0035",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0036",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q0037",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0038",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q0039",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q0040",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0041",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q0042",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0043",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0044",
+  "model_answer": "FTX"
+ },
+ {
+  "question_id": "q0045",
+  "model_answer": "Sam Altman"
+ },
+ {
+  "question_id": "q0046",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0047",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q0048",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q0049",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q0050",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q0051",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q0052",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0053",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q0054",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0055",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0056",
+  "model_answer": "Tyreek Hill"
+ },
+ {
+  "question_id": "q0057",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q0058",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q0059",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0060",
+  "model_answer": "Lionel Messi"
+ },
+ {
+  "question_id": "q0061",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q0062",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q0063",
+  "model_answer": "Meta"
+ },
+ {
+  "question_id": "q0064",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q0065",
+  "model_answer": "Google"
+ },
+ {
+  "question_id": "q0066",
+  "model_answer": "Apple"
+ },
+ {
+  "question_id": "q0067",
+  "model_answer": "Bettors"
+ },
+ {
+  "question_id": "q0068",
+  "model_answer": "Spotify"
+ },
+ {
+  "question_id": "q0069",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q0070",
+  "model_answer": "Amazon"
+ },
+ {
+  "question_id": "q0071",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q0072",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0073",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q0074",
+  "model_answer": "Everton"
+ },
+ {
+  "question_id": "q0075",
+  "model_answer": "Federal Reserve"
+ },
+ {
+  "question_id": "q0076",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q0077",
+  "model_answer": "Google"
+ },
+ {
+  "question_id": "q0078",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q0079",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q0080",
+  "model_answer": "Google"
+ },
+ {
+  "question_id": "q0081",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0082",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q0083",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0084",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0085",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0086",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0087",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q0088",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q0089",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0090",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0091",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0092",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0093",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q0094",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q0095",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0096",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q0097",
+  "model_answer": "Google"
+ },
+ {
+  "question_id": "q0098",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0099",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q0100",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0101",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0102",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0103",
+  "model_answer": "Federal Reserve"
+ },
+ {
+  "question_id": "q0104",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q0105",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0106",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q0107",
+  "model_answer": "Google"
+ },
+ {
+  "question_id": "q0108",
+  "model_answer": "The Federal Reserve"
+ },
+ {
+  "question_id": "q0109",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q0110",
+  "model_answer": "India"
+ },
+ {
+  "question_id": "q0111",
+  "model_answer": "Tyreek Hill"
+ },
+ {
+  "question_id": "q0112",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q0113",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0114",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q0115",
+  "model_answer": "Google"
+ },
+ {
+  "question_id": "q0116",
+  "model_answer": "Google"
+ },
+ {
+  "question_id": "q0117",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0118",
+  "model_answer": "Google"
+ },
+ {
+  "question_id": "q0119",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q0120",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0121",
+  "model_answer": "Amazon"
+ },
+ {
+  "question_id": "q0122",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q0123",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q0124",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0125",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q0126",
+  "model_answer": "Taylor Swift"
+ },
+ {
+  "question_id": "q0127",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0128",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q0129",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q0130",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0131",
+  "model_answer": "FTX"
+ },
+ {
+  "question_id": "q0132",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q0133",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q0134",
+  "model_answer": "Sam Altman"
+ },
+ {
+  "question_id": "q0135",
+  "model_answer": "Binance"
+ },
+ {
+  "question_id": "q0136",
+  "model_answer": "Brock Purdy"
+ },
+ {
+  "question_id": "q0137",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q0138",
+  "model_answer": "Federal Reserve"
+ },
+ {
+  "question_id": "q0139",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q0140",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0141",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0142",
+  "model_answer": "Donald Trump"
+ },
+ {
+  "question_id": "q0143",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q0144",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q0145",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q0146",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q0147",
+  "model_answer": "Sam Altman"
+ },
+ {
+  "question_id": "q0148",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q0149",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q0150",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q0151",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0152",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q0153",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q0154",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q0155",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q0156",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q0157",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0158",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q0159",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q0160",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q0161",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0162",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0163",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q0164",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0165",
+  "model_answer": "Sportsbooks"
+ },
+ {
+  "question_id": "q0166",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0167",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q0168",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q0169",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0170",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0171",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q0172",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0173",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q0174",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0175",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q0176",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q0177",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q0178",
+  "model_answer": "Google"
+ },
+ {
+  "question_id": "q0179",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q0180",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0181",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0182",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0183",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q0184",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q0185",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q0186",
+  "model_answer": "All Blacks"
+ },
+ {
+  "question_id": "q0187",
+  "model_answer": "ChatGPT"
+ },
+ {
+  "question_id": "q0188",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q0189",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q0190",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q0191",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q0192",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0193",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0194",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0195",
+  "model_answer": "Google"
+ },
+ {
+  "question_id": "q0196",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0197",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q0198",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q0199",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q0200",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q0201",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0202",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0203",
+  "model_answer": "Google"
+ },
+ {
+  "question_id": "q0204",
+  "model_answer": "Both articles imply misconduct on the part of Sam Bankman-Fried."
+ },
+ {
+  "question_id": "q0205",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q0206",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q0207",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0208",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q0209",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q0210",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q0211",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0212",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q0213",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q0214",
+  "model_answer": "Sport Grill"
+ },
+ {
+  "question_id": "q0215",
+  "model_answer": "Google"
+ },
+ {
+  "question_id": "q0216",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q0217",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0218",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q0219",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q0220",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0221",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q0222",
+  "model_answer": "Google"
+ },
+ {
+  "question_id": "q0223",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q0224",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q0225",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q0226",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q0227",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0228",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q0229",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0230",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q0231",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q0232",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q0233",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q0234",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q0235",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q0236",
+  "model_answer": "ChatGPT"
+ },
+ {
+  "question_id": "q0237",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0238",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0239",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q0240",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q0241",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0242",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0243",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0244",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0245",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0246",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q0247",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q0248",
+  "model_answer": "Warriors"
+ },
+ {
+  "question_id": "q0249",
+  "model_answer": "Savvy bettors"
+ },
+ {
+  "question_id": "q0250",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q0251",
+  "model_answer": "OpenAI"
+ },
+ {
+  "question_id": "q0252",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q0253",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q0254",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q0255",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0256",
+  "model_answer": "OpenAI"
+ },
+ {
+  "question_id": "q0257",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q0258",
+  "model_answer": "Sportsbooks"
+ },
+ {
+  "question_id": "q0259",
+  "model_answer": "Disagreement"
+ },
+ {
+  "question_id": "q0260",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q0261",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0262",
+  "model_answer": "Sam Altman"
+ },
+ {
+  "question_id": "q0263",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q0264",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q0265",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q0266",
+  "model_answer": "Google"
+ },
+ {
+  "question_id": "q0267",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q0268",
+  "model_answer": "Google"
+ },
+ {
+  "question_id": "q0269",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q0270",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q0271",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0272",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q0273",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0274",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q0275",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0276",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0277",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q0278",
+  "model_answer": "Tyreek Hill"
+ },
+ {
+  "question_id": "q0279",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q0280",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q0281",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q0282",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0283",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q0284",
+  "model_answer": "BHP"
+ },
+ {
+  "question_id": "q0285",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0286",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q0287",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q0288",
+  "model_answer": "Taylor Swift"
+ },
+ {
+  "question_id": "q0289",
+  "model_answer": "Israel"
+ },
+ {
+  "question_id": "q0290",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q0291",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q0292",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0293",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q0294",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q0295",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0296",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q0297",
+  "model_answer": "China"
+ },
+ {
+  "question_id": "q0298",
+  "model_answer": "Both articles imply a level of awareness and intent by Sam Bankman-Fried regarding the financial issues at FTX."
+ },
+ {
+  "question_id": "q0299",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0300",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q0301",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q0302",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0303",
+  "model_answer": "Apple"
+ },
+ {
+  "question_id": "q0304",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q0305",
+  "model_answer": "Amazon"
+ },
+ {
+  "question_id": "q0306",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0307",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q0308",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0309",
+  "model_answer": "ChatGPT"
+ },
+ {
+  "question_id": "q0310",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q0311",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q0312",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q0313",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0314",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q0315",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q0316",
+  "model_answer": "Reserve Bank"
+ },
+ {
+  "question_id": "q0317",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0318",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q0319",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0320",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0321",
+  "model_answer": "Amazon"
+ },
+ {
+  "question_id": "q0322",
+  "model_answer": "Shai Hope"
+ },
+ {
+  "question_id": "q0323",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0324",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0325",
+  "model_answer": "Google"
+ },
+ {
+  "question_id": "q0326",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0327",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q0328",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q0329",
+  "model_answer": "All Blacks"
+ },
+ {
+  "question_id": "q0330",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0331",
+  "model_answer": "Google"
+ },
+ {
+  "question_id": "q0332",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q0333",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0334",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q0335",
+  "model_answer": "Chelsea"
+ },
+ {
+  "question_id": "q0336",
+  "model_answer": "Sam Altman"
+ },
+ {
+  "question_id": "q0337",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q0338",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q0339",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0340",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0341",
+  "model_answer": "Google"
+ },
+ {
+  "question_id": "q0342",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0343",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0344",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q0345",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0346",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0347",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q0348",
+  "model_answer": "OpenAI"
+ },
+ {
+  "question_id": "q0349",
+  "model_answer": "Google"
+ },
+ {
+  "question_id": "q0350",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q0351",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q0352",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0353",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0354",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q0355",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q0356",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q0357",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q0358",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q0359",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q0360",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0361",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q0362",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0363",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0364",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0365",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q0366",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0367",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q0368",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q0369",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q0370",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0371",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q0372",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0373",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0374",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q0375",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q0376",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0377",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q0378",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0379",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q0380",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0381",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0382",
+  "model_answer": "Sam Altman"
+ },
+ {
+  "question_id": "q0383",
+  "model_answer": "Google"
+ },
+ {
+  "question_id": "q0384",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0385",
+  "model_answer": "After"
+ },
+ {
+  "question_id": "q0386",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q0387",
+  "model_answer": "Google"
+ },
+ {
+  "question_id": "q0388",
+  "model_answer": "Russia"
+ },
+ {
+  "question_id": "q0389",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q0390",
+  "model_answer": "CoinDesk"
+ },
+ {
+  "question_id": "q0391",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q0392",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q0393",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q0394",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q0395",
+  "model_answer": "Agreement"
+ },
+ {
+  "question_id": "q0396",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q0397",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q0398",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q0399",
+  "model_answer": "Google"
+ },
+ {
+  "question_id": "q0400",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q0401",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q0402",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0403",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q0404",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q0405",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q0406",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q0407",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0408",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0409",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0410",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q0411",
+  "model_answer": "Sportsbooks"
+ },
+ {
+  "question_id": "q0412",
+  "model_answer": "Lancashire"
+ },
+ {
+  "question_id": "q0413",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q0414",
+  "model_answer": "Smaller"
+ },
+ {
+  "question_id": "q0415",
+  "model_answer": "Google"
+ },
+ {
+  "question_id": "q0416",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0417",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q0418",
+  "model_answer": "Sportsbooks"
+ },
+ {
+  "question_id": "q0419",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q0420",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q0421",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0422",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0423",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0424",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0425",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0426",
+  "model_answer": "Amazon"
+ },
+ {
+  "question_id": "q0427",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0428",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0429",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q0430",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0431",
+  "model_answer": "Google"
+ },
+ {
+  "question_id": "q0432",
+  "model_answer": "Google"
+ },
+ {
+  "question_id": "q0433",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0434",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0435",
+  "model_answer": "Taylor Swift"
+ },
+ {
+  "question_id": "q0436",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q0437",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0438",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q0439",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0440",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0441",
+  "model_answer": "Google"
+ },
+ {
+  "question_id": "q0442",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0443",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q0444",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0445",
+  "model_answer": "Australia"
+ },
+ {
+  "question_id": "q0446",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0447",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q0448",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q0449",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q0450",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q0451",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0452",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0453",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q0454",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q0455",
+  "model_answer": "Google"
+ },
+ {
+  "question_id": "q0456",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q0457",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0458",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0459",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0460",
+  "model_answer": "Taylor Swift"
+ },
+ {
+  "question_id": "q0461",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q0462",
+  "model_answer": "Snapchat"
+ },
+ {
+  "question_id": "q0463",
+  "model_answer": "Google"
+ },
+ {
+  "question_id": "q0464",
+  "model_answer": "Apple"
+ },
+ {
+  "question_id": "q0465",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0466",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0467",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q0468",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q0469",
+  "model_answer": "Google"
+ },
+ {
+  "question_id": "q0470",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q0471",
+  "model_answer": "Australia"
+ },
+ {
+  "question_id": "q0472",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q0473",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0474",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q0475",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q0476",
+  "model_answer": "Inconsistent"
+ },
+ {
+  "question_id": "q0477",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q0478",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q0479",
+  "model_answer": "Sam Altman"
+ },
+ {
+  "question_id": "q0480",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q0481",
+  "model_answer": "Bettors"
+ },
+ {
+  "question_id": "q0482",
+  "model_answer": "Google"
+ },
+ {
+  "question_id": "q0483",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q0484",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q0485",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0486",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q0487",
+  "model_answer": "Apple"
+ },
+ {
+  "question_id": "q0488",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q0489",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q0490",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q0491",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q0492",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q0493",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q0494",
+  "model_answer": "Cybertruck"
+ },
+ {
+  "question_id": "q0495",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0496",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q0497",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q0498",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0499",
+  "model_answer": "Sam Altman"
+ },
+ {
+  "question_id": "q0500",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q0501",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q0502",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q0503",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0504",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0505",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0506",
+  "model_answer": "Apple"
+ },
+ {
+  "question_id": "q0507",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0508",
+  "model_answer": "Inconsistent"
+ },
+ {
+  "question_id": "q0509",
+  "model_answer": "Google"
+ },
+ {
+  "question_id": "q0510",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q0511",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q0512",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q0513",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0514",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q0515",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q0516",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0517",
+  "model_answer": "Sam Altman"
+ },
+ {
+  "question_id": "q0518",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q0519",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q0520",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q0521",
+  "model_answer": "OpenAI"
+ },
+ {
+  "question_id": "q0522",
+  "model_answer": "Uber"
+ },
+ {
+  "question_id": "q0523",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q0524",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q0525",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q0526",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0527",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q0528",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q0529",
+  "model_answer": "Taylor Swift"
+ },
+ {
+  "question_id": "q0530",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0531",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q0532",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q0533",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q0534",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0535",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q0536",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q0537",
+  "model_answer": "A Nearly Normal Family"
+ },
+ {
+  "question_id": "q0538",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0539",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0540",
+  "model_answer": "Apple"
+ },
+ {
+  "question_id": "q0541",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q0542",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q0543",
+  "model_answer": "Matt Huang"
+ },
+ {
+  "question_id": "q0544",
+  "model_answer": "Google"
+ },
+ {
+  "question_id": "q0545",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q0546",
+  "model_answer": "Google"
+ },
+ {
+  "question_id": "q0547",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0548",
+  "model_answer": "Sportsbooks"
+ },
+ {
+  "question_id": "q0549",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0550",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q0551",
+  "model_answer": "Google"
+ },
+ {
+  "question_id": "q0552",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0553",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q0554",
+  "model_answer": "Meta"
+ },
+ {
+  "question_id": "q0555",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0556",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q0557",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0558",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0559",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0560",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q0561",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0562",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0563",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0564",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0565",
+  "model_answer": "Manchester United"
+ },
+ {
+  "question_id": "q0566",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q0567",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0568",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0569",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q0570",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0571",
+  "model_answer": "Google"
+ },
+ {
+  "question_id": "q0572",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0573",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0574",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0575",
+  "model_answer": "Tyreek Hill"
+ },
+ {
+  "question_id": "q0576",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q0577",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0578",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q0579",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q0580",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0581",
+  "model_answer": "Valve"
+ },
+ {
+  "question_id": "q0582",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q0583",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0584",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q0585",
+  "model_answer": "Amazon"
+ },
+ {
+  "question_id": "q0586",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q0587",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q0588",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q0589",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q0590",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0591",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0592",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0593",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0594",
+  "model_answer": "OpenAI"
+ },
+ {
+  "question_id": "q0595",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0596",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q0597",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q0598",
+  "model_answer": "OpenAI"
+ },
+ {
+  "question_id": "q0599",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0600",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0601",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q0602",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q0603",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0604",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q0605",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q0606",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q0607",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q0608",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0609",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q0610",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0611",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0612",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q0613",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q0614",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0615",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q0616",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q0617",
+  "model_answer": "Taylor Swift"
+ },
+ {
+  "question_id": "q0618",
+  "model_answer": "Google"
+ },
+ {
+  "question_id": "q0619",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0620",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0621",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0622",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0623",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0624",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q0625",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q0626",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q0627",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q0628",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0629",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0630",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q0631",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q0632",
+  "model_answer": "Google"
+ },
+ {
+  "question_id": "q0633",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q0634",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q0635",
+  "model_answer": "Online sportsbooks"
+ },
+ {
+  "question_id": "q0636",
+  "model_answer": "Google"
+ },
+ {
+  "question_id": "q0637",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0638",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0639",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0640",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0641",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q0642",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q0643",
+  "model_answer": "Apple"
+ },
+ {
+  "question_id": "q0644",
+  "model_answer": "Travis Kelce"
+ },
+ {
+  "question_id": "q0645",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q0646",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q0647",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q0648",
+  "model_answer": "Sam Altman"
+ },
+ {
+  "question_id": "q0649",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q0650",
+  "model_answer": "Israel"
+ },
+ {
+  "question_id": "q0651",
+  "model_answer": "Google"
+ },
+ {
+  "question_id": "q0652",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q0653",
+  "model_answer": "Google"
+ },
+ {
+  "question_id": "q0654",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0655",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q0656",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q0657",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q0658",
+  "model_answer": "The European Commission"
+ },
+ {
+  "question_id": "q0659",
+  "model_answer": "Everton"
+ },
+ {
+  "question_id": "q0660",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q0661",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q0662",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0663",
+  "model_answer": "Google"
+ },
+ {
+  "question_id": "q0664",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q0665",
+  "model_answer": "Sam Altman"
+ },
+ {
+  "question_id": "q0666",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q0667",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q0668",
+  "model_answer": "Google"
+ },
+ {
+  "question_id": "q0669",
+  "model_answer": "Google"
+ },
+ {
+  "question_id": "q0670",
+  "model_answer": "Sam Altman"
+ },
+ {
+  "question_id": "q0671",
+  "model_answer": "Google"
+ },
+ {
+  "question_id": "q0672",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q0673",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q0674",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q0675",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q0676",
+  "model_answer": "Apple"
+ },
+ {
+  "question_id": "q0677",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q0678",
+  "model_answer": "The Verge article suggests that eBay's fees are not identical to Discogs' fees, as it states that eBay's fees are usually around 1 percent higher than Discogs'. The Fortune article indicates that CEOs Scharff, Dimon, and Moynihan do not have identical policies on overdraft fees compared to Citigroup's policy, as it mentions that Citigroup eliminated overdraft fees in 2022, while JPMorgan Chase eliminated fees for overdrafts under $50 in 2021, and Wells Fargo and Bank of America made different adjustments to their overdraft fee policies."
+ },
+ {
+  "question_id": "q0679",
+  "model_answer": "Google"
+ },
+ {
+  "question_id": "q0680",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q0681",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q0682",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q0683",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q0684",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0685",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q0686",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q0687",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q0688",
+  "model_answer": "Google"
+ },
+ {
+  "question_id": "q0689",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q0690",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q0691",
+  "model_answer": "Google"
+ },
+ {
+  "question_id": "q0692",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q0693",
+  "model_answer": "Google"
+ },
+ {
+  "question_id": "q0694",
+  "model_answer": "Taylor Swift"
+ },
+ {
+  "question_id": "q0695",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0696",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0697",
+  "model_answer": "Google"
+ },
+ {
+  "question_id": "q0698",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q0699",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q0700",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0701",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0702",
+  "model_answer": "Minnesota Vikings"
+ },
+ {
+  "question_id": "q0703",
+  "model_answer": "Beeper"
+ },
+ {
+  "question_id": "q0704",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q0705",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q0706",
+  "model_answer": "Will and Jada Pinkett Smith"
+ },
+ {
+  "question_id": "q0707",
+  "model_answer": "Warriors"
+ },
+ {
+  "question_id": "q0708",
+  "model_answer": "OpenAI"
+ },
+ {
+  "question_id": "q0709",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q0710",
+  "model_answer": "Google"
+ },
+ {
+  "question_id": "q0711",
+  "model_answer": "Google"
+ },
+ {
+  "question_id": "q0712",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0713",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q0714",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q0715",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q0716",
+  "model_answer": "Israel"
+ },
+ {
+  "question_id": "q0717",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0718",
+  "model_answer": "Flexport"
+ },
+ {
+  "question_id": "q0719",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q0720",
+  "model_answer": "Sam Altman"
+ },
+ {
+  "question_id": "q0721",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0722",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0723",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0724",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0725",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q0726",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q0727",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0728",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q0729",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q0730",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q0731",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0732",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q0733",
+  "model_answer": "Google"
+ },
+ {
+  "question_id": "q0734",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q0735",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0736",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q0737",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0738",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q0739",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q0740",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q0741",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q0742",
+  "model_answer": "Sam Altman"
+ },
+ {
+  "question_id": "q0743",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0744",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0745",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0746",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q0747",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0748",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q0749",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0750",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q0751",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0752",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q0753",
+  "model_answer": "Google"
+ },
+ {
+  "question_id": "q0754",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q0755",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0756",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0757",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q0758",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q0759",
+  "model_answer": "Google"
+ },
+ {
+  "question_id": "q0760",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0761",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q0762",
+  "model_answer": "Amazon"
+ },
+ {
+  "question_id": "q0763",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0764",
+  "model_answer": "Egypt"
+ },
+ {
+  "question_id": "q0765",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q0766",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0767",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q0768",
+  "model_answer": "Google"
+ },
+ {
+  "question_id": "q0769",
+  "model_answer": "Google"
+ },
+ {
+  "question_id": "q0770",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0771",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0772",
+  "model_answer": "The discount on Sony WF-1000XM5 earbuds"
+ },
+ {
+  "question_id": "q0773",
+  "model_answer": "OpenAI"
+ },
+ {
+  "question_id": "q0774",
+  "model_answer": "Google"
+ },
+ {
+  "question_id": "q0775",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q0776",
+  "model_answer": "Google"
+ },
+ {
+  "question_id": "q0777",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0778",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q0779",
+  "model_answer": "Google"
+ },
+ {
+  "question_id": "q0780",
+  "model_answer": "Google"
+ },
+ {
+  "question_id": "q0781",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q0782",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q0783",
+  "model_answer": "Google"
+ },
+ {
+  "question_id": "q0784",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q0785",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q0786",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q0787",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0788",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q0789",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q0790",
+  "model_answer": "Google"
+ },
+ {
+  "question_id": "q0791",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0792",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q0793",
+  "model_answer": "Rugby Australia"
+ },
+ {
+  "question_id": "q0794",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0795",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q0796",
+  "model_answer": "Google"
+ },
+ {
+  "question_id": "q0797",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0798",
+  "model_answer": "Google"
+ },
+ {
+  "question_id": "q0799",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0800",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q0801",
+  "model_answer": "Google"
+ },
+ {
+  "question_id": "q0802",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0803",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q0804",
+  "model_answer": "Amazon"
+ },
+ {
+  "question_id": "q0805",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q0806",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q0807",
+  "model_answer": "They portray different situations regarding The All Blacks' performance."
+ },
+ {
+  "question_id": "q0808",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q0809",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0810",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q0811",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q0812",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q0813",
+  "model_answer": "consistent"
+ },
+ {
+  "question_id": "q0814",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q0815",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0816",
+  "model_answer": "Inconsistent"
+ },
+ {
+  "question_id": "q0817",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q0818",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q0819",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q0820",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q0821",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q0822",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q0823",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q0824",
+  "model_answer": "Google"
+ },
+ {
+  "question_id": "q0825",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0826",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q0827",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q0828",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q0829",
+  "model_answer": "Meta"
+ },
+ {
+  "question_id": "q0830",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0831",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0832",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0833",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0834",
+  "model_answer": "Sam Altman"
+ },
+ {
+  "question_id": "q0835",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q0836",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q0837",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0838",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q0839",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0840",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0841",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0842",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q0843",
+  "model_answer": "Google"
+ },
+ {
+  "question_id": "q0844",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q0845",
+  "model_answer": "ChatGPT"
+ },
+ {
+  "question_id": "q0846",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q0847",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q0848",
+  "model_answer": "Google"
+ },
+ {
+  "question_id": "q0849",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q0850",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q0851",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q0852",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q0853",
+  "model_answer": "Shai Hope"
+ },
+ {
+  "question_id": "q0854",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q0855",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0856",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0857",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0858",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0859",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0860",
+  "model_answer": "Google"
+ },
+ {
+  "question_id": "q0861",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q0862",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q0863",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0864",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0865",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0866",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0867",
+  "model_answer": "Sam Altman"
+ },
+ {
+  "question_id": "q0868",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q0869",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q0870",
+  "model_answer": "ChatGPT"
+ },
+ {
+  "question_id": "q0871",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q0872",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q0873",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q0874",
+  "model_answer": "Google"
+ },
+ {
+  "question_id": "q0875",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q0876",
+  "model_answer": "OpenAI"
+ },
+ {
+  "question_id": "q0877",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0878",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q0879",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q0880",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0881",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q0882",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0883",
+  "model_answer": "Google"
+ },
+ {
+  "question_id": "q0884",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0885",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q0886",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0887",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q0888",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q0889",
+  "model_answer": "Google"
+ },
+ {
+  "question_id": "q0890",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0891",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q0892",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q0893",
+  "model_answer": "Google"
+ },
+ {
+  "question_id": "q0894",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0895",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q0896",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q0897",
+  "model_answer": "ChatGPT"
+ },
+ {
+  "question_id": "q0898",
+  "model_answer": "The TechCrunch article claims that Google's Gemini has a performance comparable to OpenAI's GPT-3.5, and it claims that Gemini's architecture and capabilities are superior to OpenAI's GPT-4."
+ },
+ {
+  "question_id": "q0899",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0900",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q0901",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q0902",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q0903",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q0904",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0905",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0906",
+  "model_answer": "Brock Purdy"
+ },
+ {
+  "question_id": "q0907",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q0908",
+  "model_answer": "Google"
+ },
+ {
+  "question_id": "q0909",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q0910",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q0911",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0912",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q0913",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q0914",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q0915",
+  "model_answer": "Brock Purdy"
+ },
+ {
+  "question_id": "q0916",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0917",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0918",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q0919",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0920",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q0921",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q0922",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q0923",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q0924",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0925",
+  "model_answer": "Google"
+ },
+ {
+  "question_id": "q0926",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q0927",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0928",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0929",
+  "model_answer": "Google"
+ },
+ {
+  "question_id": "q0930",
+  "model_answer": "Google"
+ },
+ {
+  "question_id": "q0931",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q0932",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q0933",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0934",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q0935",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0936",
+  "model_answer": "Amazon"
+ },
+ {
+  "question_id": "q0937",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q0938",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q0939",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q0940",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0941",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0942",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q0943",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q0944",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q0945",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0946",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0947",
+  "model_answer": "Google"
+ },
+ {
+  "question_id": "q0948",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q0949",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q0950",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0951",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q0952",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q0953",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q0954",
+  "model_answer": "Google"
+ },
+ {
+  "question_id": "q0955",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q0956",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0957",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0958",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0959",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0960",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q0961",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0962",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0963",
+  "model_answer": "Google"
+ },
+ {
+  "question_id": "q0964",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0965",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q0966",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0967",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q0968",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0969",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0970",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q0971",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q0972",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q0973",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q0974",
+  "model_answer": "Google"
+ },
+ {
+  "question_id": "q0975",
+  "model_answer": "Google"
+ },
+ {
+  "question_id": "q0976",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0977",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q0978",
+  "model_answer": "Google"
+ },
+ {
+  "question_id": "q0979",
+  "model_answer": "All Blacks"
+ },
+ {
+  "question_id": "q0980",
+  "model_answer": "Taylor Swift"
+ },
+ {
+  "question_id": "q0981",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0982",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q0983",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0984",
+  "model_answer": "Google"
+ },
+ {
+  "question_id": "q0985",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0986",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q0987",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0988",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0989",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0990",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q0991",
+  "model_answer": "OpenAI"
+ },
+ {
+  "question_id": "q0992",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0993",
+  "model_answer": "Google"
+ },
+ {
+  "question_id": "q0994",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q0995",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q0996",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0997",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q0998",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q0999",
+  "model_answer": "Google"
+ },
+ {
+  "question_id": "q1000",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1001",
+  "model_answer": "Sam Altman"
+ },
+ {
+  "question_id": "q1002",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q1003",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q1004",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q1005",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1006",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q1007",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q1008",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q1009",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1010",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q1011",
+  "model_answer": "Epic Games"
+ },
+ {
+  "question_id": "q1012",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q1013",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q1014",
+  "model_answer": "Google"
+ },
+ {
+  "question_id": "q1015",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1016",
+  "model_answer": "Sportsbooks"
+ },
+ {
+  "question_id": "q1017",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1018",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q1019",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1020",
+  "model_answer": "Kenneth Walker III"
+ },
+ {
+  "question_id": "q1021",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q1022",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1023",
+  "model_answer": "Sam Altman"
+ },
+ {
+  "question_id": "q1024",
+  "model_answer": "Google"
+ },
+ {
+  "question_id": "q1025",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q1026",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1027",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1028",
+  "model_answer": "Consistent"
+ },
+ {
+  "question_id": "q1029",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1030",
+  "model_answer": "Apple"
+ },
+ {
+  "question_id": "q1031",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q1032",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q1033",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1034",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q1035",
+  "model_answer": "Apple"
+ },
+ {
+  "question_id": "q1036",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q1037",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1038",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1039",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q1040",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q1041",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1042",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q1043",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1044",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q1045",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1046",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q1047",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q1048",
+  "model_answer": "Sam Altman"
+ },
+ {
+  "question_id": "q1049",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q1050",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1051",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1052",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1053",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q1054",
+  "model_answer": "Google"
+ },
+ {
+  "question_id": "q1055",
+  "model_answer": "Sam Altman"
+ },
+ {
+  "question_id": "q1056",
+  "model_answer": "Google"
+ },
+ {
+  "question_id": "q1057",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1058",
+  "model_answer": "Google"
+ },
+ {
+  "question_id": "q1059",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q1060",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q1061",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q1062",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q1063",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q1064",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q1065",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1066",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q1067",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q1068",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1069",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q1070",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q1071",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1072",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q1073",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1074",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1075",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q1076",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1077",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1078",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1079",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1080",
+  "model_answer": "Google"
+ },
+ {
+  "question_id": "q1081",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q1082",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1083",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1084",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q1085",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q1086",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q1087",
+  "model_answer": "Consistent"
+ },
+ {
+  "question_id": "q1088",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1089",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1090",
+  "model_answer": "ChatGPT"
+ },
+ {
+  "question_id": "q1091",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q1092",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1093",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q1094",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q1095",
+  "model_answer": "FTX"
+ },
+ {
+  "question_id": "q1096",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q1097",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q1098",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q1099",
+  "model_answer": "Amazon"
+ },
+ {
+  "question_id": "q1100",
+  "model_answer": "Google"
+ },
+ {
+  "question_id": "q1101",
+  "model_answer": "Sportsbooks"
+ },
+ {
+  "question_id": "q1102",
+  "model_answer": "Change"
+ },
+ {
+  "question_id": "q1103",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1104",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1105",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q1106",
+  "model_answer": "Google"
+ },
+ {
+  "question_id": "q1107",
+  "model_answer": "TechCrunch and Seeking Alpha"
+ },
+ {
+  "question_id": "q1108",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q1109",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q1110",
+  "model_answer": "Taylor Swift"
+ },
+ {
+  "question_id": "q1111",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1112",
+  "model_answer": "Google"
+ },
+ {
+  "question_id": "q1113",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q1114",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q1115",
+  "model_answer": "ChatGPT"
+ },
+ {
+  "question_id": "q1116",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q1117",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q1118",
+  "model_answer": "Google"
+ },
+ {
+  "question_id": "q1119",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1120",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1121",
+  "model_answer": "Google"
+ },
+ {
+  "question_id": "q1122",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1123",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1124",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q1125",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q1126",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q1127",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q1128",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q1129",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1130",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1131",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q1132",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1133",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1134",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1135",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1136",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1137",
+  "model_answer": "Sam Altman"
+ },
+ {
+  "question_id": "q1138",
+  "model_answer": "Google"
+ },
+ {
+  "question_id": "q1139",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q1140",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q1141",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q1142",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1143",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1144",
+  "model_answer": "Google"
+ },
+ {
+  "question_id": "q1145",
+  "model_answer": "Google"
+ },
+ {
+  "question_id": "q1146",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q1147",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q1148",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q1149",
+  "model_answer": "Travis Kelce and Taylor Swift"
+ },
+ {
+  "question_id": "q1150",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q1151",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q1152",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q1153",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q1154",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1155",
+  "model_answer": "Sam Altman"
+ },
+ {
+  "question_id": "q1156",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1157",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q1158",
+  "model_answer": "Federal Reserve"
+ },
+ {
+  "question_id": "q1159",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1160",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1161",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q1162",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q1163",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q1164",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q1165",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q1166",
+  "model_answer": "Uber"
+ },
+ {
+  "question_id": "q1167",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q1168",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q1169",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1170",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1171",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q1172",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1173",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q1174",
+  "model_answer": "Tyreek Hill"
+ },
+ {
+  "question_id": "q1175",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1176",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q1177",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q1178",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1179",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1180",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1181",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q1182",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q1183",
+  "model_answer": "Google"
+ },
+ {
+  "question_id": "q1184",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q1185",
+  "model_answer": "Google"
+ },
+ {
+  "question_id": "q1186",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q1187",
+  "model_answer": "Alameda Research"
+ },
+ {
+  "question_id": "q1188",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1189",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q1190",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q1191",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q1192",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q1193",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q1194",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q1195",
+  "model_answer": "Britney Spears"
+ },
+ {
+  "question_id": "q1196",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q1197",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1198",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q1199",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q1200",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1201",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q1202",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q1203",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1204",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1205",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1206",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q1207",
+  "model_answer": "Uber"
+ },
+ {
+  "question_id": "q1208",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q1209",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1210",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q1211",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q1212",
+  "model_answer": "Google"
+ },
+ {
+  "question_id": "q1213",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1214",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1215",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q1216",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q1217",
+  "model_answer": "Inconsistent"
+ },
+ {
+  "question_id": "q1218",
+  "model_answer": "Valve"
+ },
+ {
+  "question_id": "q1219",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q1220",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q1221",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q1222",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q1223",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q1224",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q1225",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1226",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1227",
+  "model_answer": "Taylor Swift"
+ },
+ {
+  "question_id": "q1228",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q1229",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q1230",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q1231",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1232",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1233",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1234",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q1235",
+  "model_answer": "Amazon"
+ },
+ {
+  "question_id": "q1236",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q1237",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q1238",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1239",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1240",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q1241",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1242",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1243",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q1244",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q1245",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q1246",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1247",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q1248",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q1249",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1250",
+  "model_answer": "Google"
+ },
+ {
+  "question_id": "q1251",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1252",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q1253",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1254",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1255",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q1256",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1257",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q1258",
+  "model_answer": "Agreement"
+ },
+ {
+  "question_id": "q1259",
+  "model_answer": "The article from Wired suggests that Sony headphones offer the best value in their class during the Walmart Cyber Monday Deals, while the article from Music Business Worldwide indicates that Artists are seeking deals that offer more control and better economics, or do both articles suggest a common trend in seeking value and control in their respective fields?\n\nYes"
+ },
+ {
+  "question_id": "q1260",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1261",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q1262",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q1263",
+  "model_answer": "India"
+ },
+ {
+  "question_id": "q1264",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q1265",
+  "model_answer": "Google"
+ },
+ {
+  "question_id": "q1266",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1267",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q1268",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1269",
+  "model_answer": "Manchester United"
+ },
+ {
+  "question_id": "q1270",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1271",
+  "model_answer": "Meta"
+ },
+ {
+  "question_id": "q1272",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q1273",
+  "model_answer": "Inconsistent"
+ },
+ {
+  "question_id": "q1274",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1275",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1276",
+  "model_answer": "Federal Reserve"
+ },
+ {
+  "question_id": "q1277",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q1278",
+  "model_answer": "Sam Altman"
+ },
+ {
+  "question_id": "q1279",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1280",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1281",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q1282",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q1283",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1284",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1285",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q1286",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q1287",
+  "model_answer": "Cleveland Browns"
+ },
+ {
+  "question_id": "q1288",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1289",
+  "model_answer": "Amazon"
+ },
+ {
+  "question_id": "q1290",
+  "model_answer": "Google"
+ },
+ {
+  "question_id": "q1291",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q1292",
+  "model_answer": "Google"
+ },
+ {
+  "question_id": "q1293",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1294",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1295",
+  "model_answer": "Online sportsbooks"
+ },
+ {
+  "question_id": "q1296",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1297",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1298",
+  "model_answer": "Sportsbook"
+ },
+ {
+  "question_id": "q1299",
+  "model_answer": "Erling Haaland"
+ },
+ {
+  "question_id": "q1300",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1301",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q1302",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1303",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1304",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q1305",
+  "model_answer": "YouTube"
+ },
+ {
+  "question_id": "q1306",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q1307",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q1308",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q1309",
+  "model_answer": "Uber"
+ },
+ {
+  "question_id": "q1310",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q1311",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1312",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q1313",
+  "model_answer": "Sam Altman"
+ },
+ {
+  "question_id": "q1314",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q1315",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q1316",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q1317",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1318",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1319",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q1320",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q1321",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q1322",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1323",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q1324",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1325",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q1326",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q1327",
+  "model_answer": "Sam Altman"
+ },
+ {
+  "question_id": "q1328",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1329",
+  "model_answer": "Google"
+ },
+ {
+  "question_id": "q1330",
+  "model_answer": "OpenAI"
+ },
+ {
+  "question_id": "q1331",
+  "model_answer": "Sportsbooks"
+ },
+ {
+  "question_id": "q1332",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q1333",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q1334",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1335",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q1336",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q1337",
+  "model_answer": "Online sportsbooks"
+ },
+ {
+  "question_id": "q1338",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q1339",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1340",
+  "model_answer": "Sportsbooks"
+ },
+ {
+  "question_id": "q1341",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q1342",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q1343",
+  "model_answer": "Google"
+ },
+ {
+  "question_id": "q1344",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q1345",
+  "model_answer": "The Independent - Life and Style"
+ },
+ {
+  "question_id": "q1346",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1347",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q1348",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q1349",
+  "model_answer": "They refer to different stages or versions of the Gemini project."
+ },
+ {
+  "question_id": "q1350",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q1351",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q1352",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1353",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q1354",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1355",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q1356",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q1357",
+  "model_answer": "Google"
+ },
+ {
+  "question_id": "q1358",
+  "model_answer": "Sam Altman"
+ },
+ {
+  "question_id": "q1359",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1360",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1361",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q1362",
+  "model_answer": "Amazon"
+ },
+ {
+  "question_id": "q1363",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1364",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q1365",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q1366",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q1367",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q1368",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q1369",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1370",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q1371",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q1372",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1373",
+  "model_answer": "Sam Altman"
+ },
+ {
+  "question_id": "q1374",
+  "model_answer": "Google"
+ },
+ {
+  "question_id": "q1375",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q1376",
+  "model_answer": "Microsoft"
+ },
+ {
+  "question_id": "q1377",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q1378",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q1379",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1380",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q1381",
+  "model_answer": "Google"
+ },
+ {
+  "question_id": "q1382",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q1383",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q1384",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q1385",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q1386",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q1387",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1388",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1389",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q1390",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1391",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q1392",
+  "model_answer": "Tyreek Hill"
+ },
+ {
+  "question_id": "q1393",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1394",
+  "model_answer": "OpenAI"
+ },
+ {
+  "question_id": "q1395",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q1396",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q1397",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1398",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q1399",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1400",
+  "model_answer": "Houston Astros"
+ },
+ {
+  "question_id": "q1401",
+  "model_answer": "Google"
+ },
+ {
+  "question_id": "q1402",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q1403",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1404",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1405",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1406",
+  "model_answer": "Google"
+ },
+ {
+  "question_id": "q1407",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1408",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q1409",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q1410",
+  "model_answer": "Google"
+ },
+ {
+  "question_id": "q1411",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1412",
+  "model_answer": "Valve"
+ },
+ {
+  "question_id": "q1413",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q1414",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1415",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q1416",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q1417",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q1418",
+  "model_answer": "Google"
+ },
+ {
+  "question_id": "q1419",
+  "model_answer": "Travis Kelce and Taylor Swift"
+ },
+ {
+  "question_id": "q1420",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q1421",
+  "model_answer": "Federal Reserve"
+ },
+ {
+  "question_id": "q1422",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1423",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1424",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q1425",
+  "model_answer": "Dario Amodei"
+ },
+ {
+  "question_id": "q1426",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1427",
+  "model_answer": "Google"
+ },
+ {
+  "question_id": "q1428",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q1429",
+  "model_answer": "Apple"
+ },
+ {
+  "question_id": "q1430",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q1431",
+  "model_answer": "Google"
+ },
+ {
+  "question_id": "q1432",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1433",
+  "model_answer": "Google"
+ },
+ {
+  "question_id": "q1434",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q1435",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q1436",
+  "model_answer": "Google"
+ },
+ {
+  "question_id": "q1437",
+  "model_answer": "Tyreek Hill"
+ },
+ {
+  "question_id": "q1438",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q1439",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q1440",
+  "model_answer": "Minnesota Vikings"
+ },
+ {
+  "question_id": "q1441",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1442",
+  "model_answer": "European Commission"
+ },
+ {
+  "question_id": "q1443",
+  "model_answer": "Tennessee Titans"
+ },
+ {
+  "question_id": "q1444",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q1445",
+  "model_answer": "Valve"
+ },
+ {
+  "question_id": "q1446",
+  "model_answer": "Google"
+ },
+ {
+  "question_id": "q1447",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q1448",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q1449",
+  "model_answer": "Travis Kelce and Taylor Swift"
+ },
+ {
+  "question_id": "q1450",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q1451",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q1452",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q1453",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1454",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q1455",
+  "model_answer": "Bettors"
+ },
+ {
+  "question_id": "q1456",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q1457",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q1458",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1459",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1460",
+  "model_answer": "Amazon"
+ },
+ {
+  "question_id": "q1461",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q1462",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1463",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1464",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q1465",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1466",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1467",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q1468",
+  "model_answer": "ChatGPT"
+ },
+ {
+  "question_id": "q1469",
+  "model_answer": "Google"
+ },
+ {
+  "question_id": "q1470",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q1471",
+  "model_answer": "Roblox"
+ },
+ {
+  "question_id": "q1472",
+  "model_answer": "Hipgnosis Songs Fund"
+ },
+ {
+  "question_id": "q1473",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q1474",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q1475",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q1476",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1477",
+  "model_answer": "Gary Wang"
+ },
+ {
+  "question_id": "q1478",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q1479",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q1480",
+  "model_answer": "Sam Altman"
+ },
+ {
+  "question_id": "q1481",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q1482",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1483",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q1484",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q1485",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1486",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1487",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q1488",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q1489",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1490",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q1491",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q1492",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q1493",
+  "model_answer": "Google"
+ },
+ {
+  "question_id": "q1494",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1495",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1496",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1497",
+  "model_answer": "Google"
+ },
+ {
+  "question_id": "q1498",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1499",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q1500",
+  "model_answer": "Google"
+ },
+ {
+  "question_id": "q1501",
+  "model_answer": "Shohei Ohtani"
+ },
+ {
+  "question_id": "q1502",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q1503",
+  "model_answer": "TikTok"
+ },
+ {
+  "question_id": "q1504",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1505",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q1506",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q1507",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q1508",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q1509",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q1510",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q1511",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q1512",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q1513",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q1514",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1515",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q1516",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1517",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1518",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1519",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q1520",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1521",
+  "model_answer": "Apple"
+ },
+ {
+  "question_id": "q1522",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q1523",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q1524",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1525",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1526",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q1527",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q1528",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1529",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q1530",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q1531",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q1532",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q1533",
+  "model_answer": "Google"
+ },
+ {
+  "question_id": "q1534",
+  "model_answer": "Google"
+ },
+ {
+  "question_id": "q1535",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q1536",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q1537",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q1538",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q1539",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1540",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q1541",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q1542",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q1543",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q1544",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q1545",
+  "model_answer": "Google"
+ },
+ {
+  "question_id": "q1546",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q1547",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1548",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q1549",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q1550",
+  "model_answer": "Uber"
+ },
+ {
+  "question_id": "q1551",
+  "model_answer": "Caesars Sportsbook"
+ },
+ {
+  "question_id": "q1552",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q1553",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1554",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q1555",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q1556",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1557",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1558",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q1559",
+  "model_answer": "Gaza"
+ },
+ {
+  "question_id": "q1560",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1561",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q1562",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1563",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1564",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1565",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1566",
+  "model_answer": "Google"
+ },
+ {
+  "question_id": "q1567",
+  "model_answer": "All Blacks"
+ },
+ {
+  "question_id": "q1568",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q1569",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q1570",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q1571",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q1572",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q1573",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1574",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1575",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1576",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q1577",
+  "model_answer": "Google"
+ },
+ {
+  "question_id": "q1578",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q1579",
+  "model_answer": "Google"
+ },
+ {
+  "question_id": "q1580",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q1581",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1582",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q1583",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q1584",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1585",
+  "model_answer": "Google"
+ },
+ {
+  "question_id": "q1586",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1587",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q1588",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1589",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q1590",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1591",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q1592",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q1593",
+  "model_answer": "TalkSport"
+ },
+ {
+  "question_id": "q1594",
+  "model_answer": "Google"
+ },
+ {
+  "question_id": "q1595",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1596",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1597",
+  "model_answer": "Google"
+ },
+ {
+  "question_id": "q1598",
+  "model_answer": "Sam Altman"
+ },
+ {
+  "question_id": "q1599",
+  "model_answer": "Gary Wang"
+ },
+ {
+  "question_id": "q1600",
+  "model_answer": "The Roar | Sports Writers Blog"
+ },
+ {
+  "question_id": "q1601",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q1602",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1603",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q1604",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q1605",
+  "model_answer": "Polygon"
+ },
+ {
+  "question_id": "q1606",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1607",
+  "model_answer": "Apple"
+ },
+ {
+  "question_id": "q1608",
+  "model_answer": "Google"
+ },
+ {
+  "question_id": "q1609",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1610",
+  "model_answer": "Sam Altman"
+ },
+ {
+  "question_id": "q1611",
+  "model_answer": "Apple"
+ },
+ {
+  "question_id": "q1612",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1613",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q1614",
+  "model_answer": "Google"
+ },
+ {
+  "question_id": "q1615",
+  "model_answer": "Flexport"
+ },
+ {
+  "question_id": "q1616",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q1617",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1618",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q1619",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1620",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q1621",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q1622",
+  "model_answer": "Federal Reserve"
+ },
+ {
+  "question_id": "q1623",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q1624",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1625",
+  "model_answer": "Google"
+ },
+ {
+  "question_id": "q1626",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1627",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q1628",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q1629",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q1630",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1631",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1632",
+  "model_answer": "Google"
+ },
+ {
+  "question_id": "q1633",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1634",
+  "model_answer": "Sam Altman"
+ },
+ {
+  "question_id": "q1635",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q1636",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1637",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q1638",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1639",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q1640",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1641",
+  "model_answer": "Google"
+ },
+ {
+  "question_id": "q1642",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q1643",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q1644",
+  "model_answer": "Google"
+ },
+ {
+  "question_id": "q1645",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1646",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q1647",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q1648",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1649",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1650",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q1651",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q1652",
+  "model_answer": "Google"
+ },
+ {
+  "question_id": "q1653",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q1654",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q1655",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q1656",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1657",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q1658",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q1659",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q1660",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1661",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1662",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1663",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1664",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1665",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q1666",
+  "model_answer": "Caroline Ellison"
+ },
+ {
+  "question_id": "q1667",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1668",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q1669",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q1670",
+  "model_answer": "Inconsistent"
+ },
+ {
+  "question_id": "q1671",
+  "model_answer": "Taylor Swift"
+ },
+ {
+  "question_id": "q1672",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1673",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q1674",
+  "model_answer": "Google"
+ },
+ {
+  "question_id": "q1675",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1676",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q1677",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1678",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1679",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1680",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q1681",
+  "model_answer": "Federal Reserve"
+ },
+ {
+  "question_id": "q1682",
+  "model_answer": "Google"
+ },
+ {
+  "question_id": "q1683",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q1684",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q1685",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q1686",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1687",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q1688",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q1689",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q1690",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1691",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1692",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1693",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q1694",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q1695",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1696",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q1697",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q1698",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q1699",
+  "model_answer": "Google"
+ },
+ {
+  "question_id": "q1700",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q1701",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1702",
+  "model_answer": "Amazon"
+ },
+ {
+  "question_id": "q1703",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1704",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1705",
+  "model_answer": "Google"
+ },
+ {
+  "question_id": "q1706",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q1707",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1708",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q1709",
+  "model_answer": "Valve"
+ },
+ {
+  "question_id": "q1710",
+  "model_answer": "Agree"
+ },
+ {
+  "question_id": "q1711",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1712",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1713",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1714",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q1715",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q1716",
+  "model_answer": "Twitch"
+ },
+ {
+  "question_id": "q1717",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1718",
+  "model_answer": "Republican"
+ },
+ {
+  "question_id": "q1719",
+  "model_answer": "Google"
+ },
+ {
+  "question_id": "q1720",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q1721",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1722",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1723",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q1724",
+  "model_answer": "Google"
+ },
+ {
+  "question_id": "q1725",
+  "model_answer": "Apple"
+ },
+ {
+  "question_id": "q1726",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1727",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1728",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q1729",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1730",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q1731",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q1732",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1733",
+  "model_answer": "They present differing views on this matter."
+ },
+ {
+  "question_id": "q1734",
+  "model_answer": "Google"
+ },
+ {
+  "question_id": "q1735",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1736",
+  "model_answer": "Manchester United"
+ },
+ {
+  "question_id": "q1737",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q1738",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q1739",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q1740",
+  "model_answer": "YouTube"
+ },
+ {
+  "question_id": "q1741",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1742",
+  "model_answer": "Google"
+ },
+ {
+  "question_id": "q1743",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q1744",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1745",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q1746",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q1747",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1748",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q1749",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1750",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1751",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q1752",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q1753",
+  "model_answer": "Google"
+ },
+ {
+  "question_id": "q1754",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1755",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q1756",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q1757",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q1758",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q1759",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q1760",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1761",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q1762",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1763",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q1764",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1765",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1766",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1767",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q1768",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q1769",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1770",
+  "model_answer": "Google"
+ },
+ {
+  "question_id": "q1771",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q1772",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q1773",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q1774",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q1775",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q1776",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1777",
+  "model_answer": "Google"
+ },
+ {
+  "question_id": "q1778",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q1779",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1780",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q1781",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1782",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q1783",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q1784",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q1785",
+  "model_answer": "Travis Kelce and Taylor Swift"
+ },
+ {
+  "question_id": "q1786",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1787",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q1788",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1789",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q1790",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q1791",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q1792",
+  "model_answer": "Brock Purdy"
+ },
+ {
+  "question_id": "q1793",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q1794",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q1795",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q1796",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q1797",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q1798",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q1799",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q1800",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1801",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q1802",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1803",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1804",
+  "model_answer": "Google"
+ },
+ {
+  "question_id": "q1805",
+  "model_answer": "Tyreek Hill"
+ },
+ {
+  "question_id": "q1806",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q1807",
+  "model_answer": "Google"
+ },
+ {
+  "question_id": "q1808",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q1809",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1810",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q1811",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1812",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1813",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q1814",
+  "model_answer": "Google"
+ },
+ {
+  "question_id": "q1815",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q1816",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q1817",
+  "model_answer": "Beeper Mini"
+ },
+ {
+  "question_id": "q1818",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q1819",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q1820",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q1821",
+  "model_answer": "Sam Altman"
+ },
+ {
+  "question_id": "q1822",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1823",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q1824",
+  "model_answer": "Sam Altman"
+ },
+ {
+  "question_id": "q1825",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q1826",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1827",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q1828",
+  "model_answer": "Google"
+ },
+ {
+  "question_id": "q1829",
+  "model_answer": "Google"
+ },
+ {
+  "question_id": "q1830",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q1831",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1832",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q1833",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q1834",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q1835",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q1836",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q1837",
+  "model_answer": "Sportsbooks"
+ },
+ {
+  "question_id": "q1838",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1839",
+  "model_answer": "Sam Altman"
+ },
+ {
+  "question_id": "q1840",
+  "model_answer": "Bettors"
+ },
+ {
+  "question_id": "q1841",
+  "model_answer": "Inconsistent"
+ },
+ {
+  "question_id": "q1842",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1843",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q1844",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q1845",
+  "model_answer": "Google"
+ },
+ {
+  "question_id": "q1846",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1847",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1848",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q1849",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1850",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1851",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1852",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q1853",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1854",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q1855",
+  "model_answer": "Taylor Swift and Travis Kelce"
+ },
+ {
+  "question_id": "q1856",
+  "model_answer": "OpenAI"
+ },
+ {
+  "question_id": "q1857",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1858",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q1859",
+  "model_answer": "Sam Altman"
+ },
+ {
+  "question_id": "q1860",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q1861",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q1862",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q1863",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q1864",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q1865",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q1866",
+  "model_answer": "TechCrunch"
+ },
+ {
+  "question_id": "q1867",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q1868",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1869",
+  "model_answer": "Sportsbooks"
+ },
+ {
+  "question_id": "q1870",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q1871",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1872",
+  "model_answer": "ChatGPT"
+ },
+ {
+  "question_id": "q1873",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1874",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q1875",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q1876",
+  "model_answer": "Britney Spears"
+ },
+ {
+  "question_id": "q1877",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1878",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q1879",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q1880",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q1881",
+  "model_answer": "De'Von Achane"
+ },
+ {
+  "question_id": "q1882",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q1883",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1884",
+  "model_answer": "Meta"
+ },
+ {
+  "question_id": "q1885",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1886",
+  "model_answer": "Google"
+ },
+ {
+  "question_id": "q1887",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q1888",
+  "model_answer": "FTX"
+ },
+ {
+  "question_id": "q1889",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q1890",
+  "model_answer": "OpenAI"
+ },
+ {
+  "question_id": "q1891",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q1892",
+  "model_answer": "Britney Spears"
+ },
+ {
+  "question_id": "q1893",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q1894",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q1895",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1896",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1897",
+  "model_answer": "Rugby Australia"
+ },
+ {
+  "question_id": "q1898",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q1899",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1900",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1901",
+  "model_answer": "Martin Scorsese"
+ },
+ {
+  "question_id": "q1902",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1903",
+  "model_answer": "Sam Altman"
+ },
+ {
+  "question_id": "q1904",
+  "model_answer": "Google"
+ },
+ {
+  "question_id": "q1905",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q1906",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q1907",
+  "model_answer": "Google"
+ },
+ {
+  "question_id": "q1908",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q1909",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1910",
+  "model_answer": "Inconsistent"
+ },
+ {
+  "question_id": "q1911",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q1912",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q1913",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1914",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q1915",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q1916",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1917",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q1918",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q1919",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q1920",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q1921",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q1922",
+  "model_answer": "Google"
+ },
+ {
+  "question_id": "q1923",
+  "model_answer": "Google"
+ },
+ {
+  "question_id": "q1924",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q1925",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1926",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1927",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q1928",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q1929",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q1930",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1931",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q1932",
+  "model_answer": "Sam Altman"
+ },
+ {
+  "question_id": "q1933",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q1934",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q1935",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q1936",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1937",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1938",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1939",
+  "model_answer": "Consumers"
+ },
+ {
+  "question_id": "q1940",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q1941",
+  "model_answer": "Google"
+ },
+ {
+  "question_id": "q1942",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q1943",
+  "model_answer": "Google"
+ },
+ {
+  "question_id": "q1944",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1945",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1946",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q1947",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q1948",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q1949",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q1950",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1951",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q1952",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1953",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q1954",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q1955",
+  "model_answer": "Google"
+ },
+ {
+  "question_id": "q1956",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q1957",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q1958",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1959",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q1960",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q1961",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q1962",
+  "model_answer": "Federal Reserve"
+ },
+ {
+  "question_id": "q1963",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q1964",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1965",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1966",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q1967",
+  "model_answer": "Online sportsbooks"
+ },
+ {
+  "question_id": "q1968",
+  "model_answer": "Google"
+ },
+ {
+  "question_id": "q1969",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1970",
+  "model_answer": "All Blacks"
+ },
+ {
+  "question_id": "q1971",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q1972",
+  "model_answer": "Canelo Alvarez"
+ },
+ {
+  "question_id": "q1973",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1974",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q1975",
+  "model_answer": "Valve"
+ },
+ {
+  "question_id": "q1976",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q1977",
+  "model_answer": "Elon Musk"
+ },
+ {
+  "question_id": "q1978",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q1979",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1980",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q1981",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1982",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1983",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q1984",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1985",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1986",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1987",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1988",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q1989",
+  "model_answer": "Manchester United"
+ },
+ {
+  "question_id": "q1990",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q1991",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q1992",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q1993",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q1994",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q1995",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q1996",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q1997",
+  "model_answer": "Universal Music Group"
+ },
+ {
+  "question_id": "q1998",
+  "model_answer": "Google"
+ },
+ {
+  "question_id": "q1999",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q2000",
+  "model_answer": "Google"
+ },
+ {
+  "question_id": "q2001",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q2002",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q2003",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q2004",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q2005",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q2006",
+  "model_answer": "Google"
+ },
+ {
+  "question_id": "q2007",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q2008",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q2009",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q2010",
+  "model_answer": "TechCrunch"
+ },
+ {
+  "question_id": "q2011",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q2012",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q2013",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q2014",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q2015",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q2016",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q2017",
+  "model_answer": "Sam Altman"
+ },
+ {
+  "question_id": "q2018",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q2019",
+  "model_answer": "Jim Harbaugh"
+ },
+ {
+  "question_id": "q2020",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q2021",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q2022",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q2023",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q2024",
+  "model_answer": "Google"
+ },
+ {
+  "question_id": "q2025",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q2026",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q2027",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q2028",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q2029",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q2030",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q2031",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q2032",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q2033",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q2034",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q2035",
+  "model_answer": "Both articles imply misconduct on the part of Sam Bankman-Fried."
+ },
+ {
+  "question_id": "q2036",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q2037",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q2038",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q2039",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q2040",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q2041",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q2042",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q2043",
+  "model_answer": "Inconsistent"
+ },
+ {
+  "question_id": "q2044",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q2045",
+  "model_answer": "All Blacks"
+ },
+ {
+  "question_id": "q2046",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q2047",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q2048",
+  "model_answer": "Sam Altman"
+ },
+ {
+  "question_id": "q2049",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q2050",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q2051",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q2052",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q2053",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q2054",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q2055",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q2056",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q2057",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q2058",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q2059",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q2060",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q2061",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q2062",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q2063",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q2064",
+  "model_answer": "Google"
+ },
+ {
+  "question_id": "q2065",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q2066",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q2067",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q2068",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q2069",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q2070",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q2071",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q2072",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q2073",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q2074",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q2075",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q2076",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q2077",
+  "model_answer": "Google"
+ },
+ {
+  "question_id": "q2078",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q2079",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q2080",
+  "model_answer": "Google"
+ },
+ {
+  "question_id": "q2081",
+  "model_answer": "Google"
+ },
+ {
+  "question_id": "q2082",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q2083",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q2084",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q2085",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q2086",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q2087",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q2088",
+  "model_answer": "Taylor Swift"
+ },
+ {
+  "question_id": "q2089",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q2090",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q2091",
+  "model_answer": "Google"
+ },
+ {
+  "question_id": "q2092",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q2093",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q2094",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q2095",
+  "model_answer": "Travis Kelce"
+ },
+ {
+  "question_id": "q2096",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q2097",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q2098",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q2099",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q2100",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q2101",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q2102",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q2103",
+  "model_answer": "Google"
+ },
+ {
+  "question_id": "q2104",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q2105",
+  "model_answer": "Google"
+ },
+ {
+  "question_id": "q2106",
+  "model_answer": "Google"
+ },
+ {
+  "question_id": "q2107",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q2108",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q2109",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q2110",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q2111",
+  "model_answer": "Google"
+ },
+ {
+  "question_id": "q2112",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q2113",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q2114",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q2115",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q2116",
+  "model_answer": "Alameda Research"
+ },
+ {
+  "question_id": "q2117",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q2118",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q2119",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q2120",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q2121",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q2122",
+  "model_answer": "Google"
+ },
+ {
+  "question_id": "q2123",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q2124",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q2125",
+  "model_answer": "Valve"
+ },
+ {
+  "question_id": "q2126",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q2127",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q2128",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q2129",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q2130",
+  "model_answer": "Sportsbooks"
+ },
+ {
+  "question_id": "q2131",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q2132",
+  "model_answer": "Alameda Research"
+ },
+ {
+  "question_id": "q2133",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q2134",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q2135",
+  "model_answer": "Sam Altman"
+ },
+ {
+  "question_id": "q2136",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q2137",
+  "model_answer": "Google"
+ },
+ {
+  "question_id": "q2138",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q2139",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q2140",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q2141",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q2142",
+  "model_answer": "Google"
+ },
+ {
+  "question_id": "q2143",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q2144",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q2145",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q2146",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q2147",
+  "model_answer": "Lionel Messi"
+ },
+ {
+  "question_id": "q2148",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q2149",
+  "model_answer": "Google"
+ },
+ {
+  "question_id": "q2150",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q2151",
+  "model_answer": "Google"
+ },
+ {
+  "question_id": "q2152",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q2153",
+  "model_answer": "Their approaches are different."
+ },
+ {
+  "question_id": "q2154",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q2155",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q2156",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q2157",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q2158",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q2159",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q2160",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q2161",
+  "model_answer": "Google"
+ },
+ {
+  "question_id": "q2162",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q2163",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q2164",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q2165",
+  "model_answer": "Sam Altman"
+ },
+ {
+  "question_id": "q2166",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q2167",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q2168",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q2169",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q2170",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q2171",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q2172",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q2173",
+  "model_answer": "Google"
+ },
+ {
+  "question_id": "q2174",
+  "model_answer": "OpenAI"
+ },
+ {
+  "question_id": "q2175",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q2176",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q2177",
+  "model_answer": "Google"
+ },
+ {
+  "question_id": "q2178",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q2179",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q2180",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q2181",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q2182",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q2183",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q2184",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q2185",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q2186",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q2187",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q2188",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q2189",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q2190",
+  "model_answer": "Meta"
+ },
+ {
+  "question_id": "q2191",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q2192",
+  "model_answer": "Apple"
+ },
+ {
+  "question_id": "q2193",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q2194",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q2195",
+  "model_answer": "Sam Altman"
+ },
+ {
+  "question_id": "q2196",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q2197",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q2198",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q2199",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q2200",
+  "model_answer": "Google"
+ },
+ {
+  "question_id": "q2201",
+  "model_answer": "Taylor Swift"
+ },
+ {
+  "question_id": "q2202",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q2203",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q2204",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q2205",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q2206",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q2207",
+  "model_answer": "Meta"
+ },
+ {
+  "question_id": "q2208",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q2209",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q2210",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q2211",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q2212",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q2213",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q2214",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q2215",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q2216",
+  "model_answer": "Epic Games"
+ },
+ {
+  "question_id": "q2217",
+  "model_answer": "Manchester United"
+ },
+ {
+  "question_id": "q2218",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q2219",
+  "model_answer": "Google"
+ },
+ {
+  "question_id": "q2220",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q2221",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q2222",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q2223",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q2224",
+  "model_answer": "Google"
+ },
+ {
+  "question_id": "q2225",
+  "model_answer": "Google"
+ },
+ {
+  "question_id": "q2226",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q2227",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q2228",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q2229",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q2230",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q2231",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q2232",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q2233",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q2234",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q2235",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q2236",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q2237",
+  "model_answer": "The All Blacks"
+ },
+ {
+  "question_id": "q2238",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q2239",
+  "model_answer": "Sam Altman"
+ },
+ {
+  "question_id": "q2240",
+  "model_answer": "Israel"
+ },
+ {
+  "question_id": "q2241",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q2242",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q2243",
+  "model_answer": "Google"
+ },
+ {
+  "question_id": "q2244",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q2245",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q2246",
+  "model_answer": "Google"
+ },
+ {
+  "question_id": "q2247",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q2248",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q2249",
+  "model_answer": "OpenAI"
+ },
+ {
+  "question_id": "q2250",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q2251",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q2252",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q2253",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q2254",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q2255",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q2256",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q2257",
+  "model_answer": "Google"
+ },
+ {
+  "question_id": "q2258",
+  "model_answer": "Google"
+ },
+ {
+  "question_id": "q2259",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q2260",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q2261",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q2262",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q2263",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q2264",
+  "model_answer": "Caesars Sportsbook"
+ },
+ {
+  "question_id": "q2265",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q2266",
+  "model_answer": "Sam Altman"
+ },
+ {
+  "question_id": "q2267",
+  "model_answer": "Google"
+ },
+ {
+  "question_id": "q2268",
+  "model_answer": "Manchester United"
+ },
+ {
+  "question_id": "q2269",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q2270",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q2271",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q2272",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q2273",
+  "model_answer": "Google"
+ },
+ {
+  "question_id": "q2274",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q2275",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q2276",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q2277",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q2278",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q2279",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q2280",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q2281",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q2282",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q2283",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q2284",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q2285",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q2286",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q2287",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q2288",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q2289",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q2290",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q2291",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q2292",
+  "model_answer": "Apple"
+ },
+ {
+  "question_id": "q2293",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q2294",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q2295",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q2296",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q2297",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q2298",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q2299",
+  "model_answer": "Caroline Ellison"
+ },
+ {
+  "question_id": "q2300",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q2301",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q2302",
+  "model_answer": "Sam Altman"
+ },
+ {
+  "question_id": "q2303",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q2304",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q2305",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q2306",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q2307",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q2308",
+  "model_answer": "Google"
+ },
+ {
+  "question_id": "q2309",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q2310",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q2311",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q2312",
+  "model_answer": "OpenAI"
+ },
+ {
+  "question_id": "q2313",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q2314",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q2315",
+  "model_answer": "Flexport"
+ },
+ {
+  "question_id": "q2316",
+  "model_answer": "Diablo 4"
+ },
+ {
+  "question_id": "q2317",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q2318",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q2319",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q2320",
+  "model_answer": "Apple"
+ },
+ {
+  "question_id": "q2321",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q2322",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q2323",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q2324",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q2325",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q2326",
+  "model_answer": "Sam Altman"
+ },
+ {
+  "question_id": "q2327",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q2328",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q2329",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q2330",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q2331",
+  "model_answer": "OpenAI"
+ },
+ {
+  "question_id": "q2332",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q2333",
+  "model_answer": "Google"
+ },
+ {
+  "question_id": "q2334",
+  "model_answer": "Tyreek Hill"
+ },
+ {
+  "question_id": "q2335",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q2336",
+  "model_answer": "Google"
+ },
+ {
+  "question_id": "q2337",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q2338",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q2339",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q2340",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q2341",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q2342",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q2343",
+  "model_answer": "Google"
+ },
+ {
+  "question_id": "q2344",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q2345",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q2346",
+  "model_answer": "Amazon"
+ },
+ {
+  "question_id": "q2347",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q2348",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q2349",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q2350",
+  "model_answer": "Apple"
+ },
+ {
+  "question_id": "q2351",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q2352",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q2353",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q2354",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q2355",
+  "model_answer": "Lionel Messi"
+ },
+ {
+  "question_id": "q2356",
+  "model_answer": "Taylor Swift"
+ },
+ {
+  "question_id": "q2357",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q2358",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q2359",
+  "model_answer": "Sam Altman"
+ },
+ {
+  "question_id": "q2360",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q2361",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q2362",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q2363",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q2364",
+  "model_answer": "Google"
+ },
+ {
+  "question_id": "q2365",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q2366",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q2367",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q2368",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q2369",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q2370",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q2371",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q2372",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q2373",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q2374",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q2375",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q2376",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q2377",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q2378",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q2379",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q2380",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q2381",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q2382",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q2383",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q2384",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q2385",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q2386",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q2387",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q2388",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q2389",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q2390",
+  "model_answer": "Tyreek Hill"
+ },
+ {
+  "question_id": "q2391",
+  "model_answer": "Minnesota Vikings"
+ },
+ {
+  "question_id": "q2392",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q2393",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q2394",
+  "model_answer": "Brock Purdy"
+ },
+ {
+  "question_id": "q2395",
+  "model_answer": "Taylor Swift"
+ },
+ {
+  "question_id": "q2396",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q2397",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q2398",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q2399",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q2400",
+  "model_answer": "Google"
+ },
+ {
+  "question_id": "q2401",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q2402",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q2403",
+  "model_answer": "ChatGPT"
+ },
+ {
+  "question_id": "q2404",
+  "model_answer": "Google"
+ },
+ {
+  "question_id": "q2405",
+  "model_answer": "All Blacks"
+ },
+ {
+  "question_id": "q2406",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q2407",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q2408",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q2409",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q2410",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q2411",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q2412",
+  "model_answer": "Sam Altman"
+ },
+ {
+  "question_id": "q2413",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q2414",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q2415",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q2416",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q2417",
+  "model_answer": "Amazon"
+ },
+ {
+  "question_id": "q2418",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q2419",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q2420",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q2421",
+  "model_answer": "Google"
+ },
+ {
+  "question_id": "q2422",
+  "model_answer": "Sam Altman"
+ },
+ {
+  "question_id": "q2423",
+  "model_answer": "Google"
+ },
+ {
+  "question_id": "q2424",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q2425",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q2426",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q2427",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q2428",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q2429",
+  "model_answer": "European Commission"
+ },
+ {
+  "question_id": "q2430",
+  "model_answer": "Sam Altman"
+ },
+ {
+  "question_id": "q2431",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q2432",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q2433",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q2434",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q2435",
+  "model_answer": "Meta"
+ },
+ {
+  "question_id": "q2436",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q2437",
+  "model_answer": "Sam Altman"
+ },
+ {
+  "question_id": "q2438",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q2439",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q2440",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q2441",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q2442",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q2443",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q2444",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q2445",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q2446",
+  "model_answer": "Sam Altman"
+ },
+ {
+  "question_id": "q2447",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q2448",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q2449",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q2450",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q2451",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q2452",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q2453",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q2454",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q2455",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q2456",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q2457",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q2458",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q2459",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q2460",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q2461",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q2462",
+  "model_answer": "Google"
+ },
+ {
+  "question_id": "q2463",
+  "model_answer": "Google"
+ },
+ {
+  "question_id": "q2464",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q2465",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q2466",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q2467",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q2468",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q2469",
+  "model_answer": "Google"
+ },
+ {
+  "question_id": "q2470",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q2471",
+  "model_answer": "Google"
+ },
+ {
+  "question_id": "q2472",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q2473",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q2474",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q2475",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q2476",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q2477",
+  "model_answer": "Agreement"
+ },
+ {
+  "question_id": "q2478",
+  "model_answer": "Google"
+ },
+ {
+  "question_id": "q2479",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q2480",
+  "model_answer": "Twitch"
+ },
+ {
+  "question_id": "q2481",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q2482",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q2483",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q2484",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q2485",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q2486",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q2487",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q2488",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q2489",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q2490",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q2491",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q2492",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q2493",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q2494",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q2495",
+  "model_answer": "Sam Altman"
+ },
+ {
+  "question_id": "q2496",
+  "model_answer": "Richelle Cranston"
+ },
+ {
+  "question_id": "q2497",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q2498",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q2499",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q2500",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q2501",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q2502",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q2503",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q2504",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q2505",
+  "model_answer": "ChatGPT"
+ },
+ {
+  "question_id": "q2506",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q2507",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q2508",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q2509",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q2510",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q2511",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q2512",
+  "model_answer": "Sam Altman"
+ },
+ {
+  "question_id": "q2513",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q2514",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q2515",
+  "model_answer": "Taylor Swift"
+ },
+ {
+  "question_id": "q2516",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q2517",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q2518",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q2519",
+  "model_answer": "Disagree"
+ },
+ {
+  "question_id": "q2520",
+  "model_answer": "Taylor Swift"
+ },
+ {
+  "question_id": "q2521",
+  "model_answer": "Meta"
+ },
+ {
+  "question_id": "q2522",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q2523",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q2524",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q2525",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q2526",
+  "model_answer": "Google"
+ },
+ {
+  "question_id": "q2527",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q2528",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q2529",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q2530",
+  "model_answer": "YouTube"
+ },
+ {
+  "question_id": "q2531",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q2532",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q2533",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q2534",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q2535",
+  "model_answer": "Shohei Ohtani"
+ },
+ {
+  "question_id": "q2536",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q2537",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q2538",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q2539",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q2540",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q2541",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q2542",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q2543",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q2544",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q2545",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q2546",
+  "model_answer": "Insufficient Information"
+ },
+ {
+  "question_id": "q2547",
+  "model_answer": "No"
+ },
+ {
+  "question_id": "q2548",
+  "model_answer": "Caesars Sportsbook"
+ },
+ {
+  "question_id": "q2549",
+  "model_answer": "Gary Wang"
+ },
+ {
+  "question_id": "q2550",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q2551",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q2552",
+  "model_answer": "Sam Bankman-Fried"
+ },
+ {
+  "question_id": "q2553",
+  "model_answer": "Bettors"
+ },
+ {
+  "question_id": "q2554",
+  "model_answer": "Yes"
+ },
+ {
+  "question_id": "q2555",
+  "model_answer": "Yes"
+ }
+]
